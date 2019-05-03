@@ -1,5 +1,6 @@
 # DATS-6103-Individual-Project-3
-## Global Scientific Research Analysis: Scientific Articles Publication and Research Expenditure
+## Global Scientific Research Analysis: 
+## Scientific Articles Publication and Research Expenditure
 
 Introduction
 Science and technology are virtually the driving forces that promote the life quality of people and economic growth of a nation.
