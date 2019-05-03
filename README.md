@@ -2,12 +2,12 @@
 ## Global Scientific Research Analysis: 
 ## Scientific Articles Publication and Research Expenditure
 
-Introduction
+Introduction     
 Science and technology are virtually the driving forces that promote the life quality of people and economic growth of a nation.
 A detailed analysis on scienfitic research and expenditure would greatly help us to grasp the lastest trend in the world.
 
-Data Source: 
-World Bank  
+Data Source:  
+World Bank    
 * Scientific and technical journal articles (data from year 2003 to 2016 only are available)
 * Research and development expenditure (% of GDP)
 * GDP (current USD) 
