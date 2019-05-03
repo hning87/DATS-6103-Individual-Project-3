@@ -1,4 +1,4 @@
-# DATS-6103-Individual-Project-3
+# DATS-6103-Individual-Project-3 - Hao Ning
 ## Global Scientific Research Analysis: 
 ## Scientific Articles Publication and Research Expenditure
 
