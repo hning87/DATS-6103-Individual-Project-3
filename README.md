@@ -4,7 +4,7 @@
 
 ### Introduction     
 Science and technology are virtually the driving forces that promote the life quality of people and economic growth of a nation.
-A detailed analysis on scienfitic research and expenditure would greatly help us to grasp the lastest trend in the world.
+A detailed analysis on scienfitic research and expenditure would greatly help us to grasp the latest trend in the world.
 
 ### Data Source:  
 World Bank    
